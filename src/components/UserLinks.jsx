@@ -1,5 +1,5 @@
 import React from "react";
-import "./UserLinks.css";
+import "../styles/UserLinks.css";
 
 function UserLinks({ config, labeled }) {
   function getLinkElements() {
