@@ -1,11 +1,11 @@
 ---
-title: "Big Test"
+title: "Markdown cheat sheet"
 cover: "5.jpg"
 category: "moar"
 date: "2018-03-01"
-slug: "Big-Sample_Test"
+slug: "Markdown_cheat_sheet"
 tags:
-    - test
+    - Markdown
     - huge
 ---
 
